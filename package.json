@@ -1,5 +1,5 @@
 {
-  "name": "igames-ghost-cli",
+  "name": "@igames/ghost-cli",
   "version": "1.15.3",
   "description": "CLI Tool for installing & updating Ghost",
   "author": "Ghost Foundation",
